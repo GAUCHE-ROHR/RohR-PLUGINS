@@ -39,7 +39,7 @@ store_take_gold_guild_storage_amount_widget_default = '0'
 
 pVersion = '1.0.0'
 pName = 'RohR_ItemStack'
-pUrl = 'https://raw.githubusercontent.com/TheMoB41/TrPlugins/main/TrItemStack.py'
+pUrl = 'https://raw.githubusercontent.com/GAUCHE-ROHR/RohR-PLUGINS/main/RohR_ItemStack.py'
 
 gui = QtBind.init(__name__, pName)
 
