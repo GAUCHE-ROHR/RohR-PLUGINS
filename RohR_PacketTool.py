@@ -5,7 +5,7 @@ import os
 
 pName = 'RohR_PacketTooL'
 pVersion = '1.0.1'
-pUrl = "https://raw.githubusercontent.com/TheMoB41/TrPlugins/main/TrPacketTool.py"
+pUrl = "https://raw.githubusercontent.com/GAUCHE-ROHR/RohR-PLUGINS/main/RohR_PacketTool.py"
 # ______________________________ KURULUM ______________________________ #
 # KULLANICI ARAYUZU
 gui = QtBind.init(__name__,pName)
