@@ -10,7 +10,7 @@ import subprocess
 
 pVersion = '1.0.1'
 pName = 'RohR_ItemManager'
-pUrl = 'https://raw.githubusercontent.com/TheMoB41/TrPlugins/main/TrItemManager.py'
+pUrl = 'https://raw.githubusercontent.com/GAUCHE-ROHR/RohR-PLUGINS/main/RohR_ItemManager.py'
 
 # KURESELLER
 character_data = None
