@@ -16,7 +16,7 @@ from re import search
 
 pName = 'RohR_Controller'
 pVersion = '1.2.0'
-pUrl = 'https://raw.githubusercontent.com/TheMoB41/TrPlugins/main/TrController.py'
+pUrl = 'https://raw.githubusercontent.com/GAUCHE-ROHR/RohR-PLUGINS/main/RohR_Controller.py'
 
 COMMANDS_CODES = {
 	'ZERKPOT': ['ZERKPOT'],
