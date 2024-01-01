@@ -7,7 +7,7 @@ import os
 
 pName = 'RohR_BOI'
 pVersion = '1.0.1'
-pUrl = 'https://raw.githubusercontent.com/TheMoB41/TrPlugins/main/TrBOI.py'
+pUrl = 'https://raw.githubusercontent.com/GAUCHE-ROHR/RohR-PLUGINS/main/RohR_BOI.py'
 path = get_config_dir()+pName+"\\"
 
 Online = False
