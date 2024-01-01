@@ -7,7 +7,7 @@ import os
 
 pName = 'RohR_Chat'
 pVersion = '1.0.1'
-pUrl = "https://raw.githubusercontent.com/TheMoB41/TrPlugins/main/TrChat.py"
+pUrl = "https://raw.githubusercontent.com/GAUCHE-ROHR/RohR-PLUGINS/main/RohR_Chat.py"
 # ______________________________ KURULUM ______________________________ #
 # KURESELLER
 MESSAGES_DELAY = 10000
