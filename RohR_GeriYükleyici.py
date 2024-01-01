@@ -8,7 +8,7 @@ import urllib.request
 import os
 
 pName = 'RohR_GeriYükleyici'
-pUrl = ''
+pUrl = 'https://raw.githubusercontent.com/GAUCHE-ROHR/RohR-PLUGINS/main/RohR_GeriY%C3%BCkleyici.py'
 pVersion = '1.0.1'
 
 path = get_config_dir() + 'Backup'
